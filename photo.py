@@ -39,4 +39,4 @@ sleep(time_difference)
 take_picture()
 
 #testing to see if this worls
-print("hello jacob")
+print("hello jacob #2")
