@@ -37,3 +37,6 @@ sleep(time_difference)
 
 # Capture the picture at the scheduled time
 take_picture()
+
+#testing to see if this worls
+print("hello jacob")
