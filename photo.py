@@ -1,3 +1,4 @@
+#Jacob Stasiewicz Version
 from time import sleep
 from picamera2 import Picamera2
 from picamera2 import Preview
